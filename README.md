@@ -1,5 +1,4 @@
 ### Hi! 👋
-![](https://pbs.twimg.com/profile_banners/3382152664/1657541875/1500x500)
 
 I'm Enoch, a Software Engineer with 5+ years of experience building fintech solutions, mobile games, and blockchain applications. Passionate about innovation and problem-solving, I spend a lot of my time architecting systems and streamlining processes to drive continuous improvement.
 
