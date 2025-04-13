@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Enoch!
 
-A Software Engineer with 5+ years of experience building fintech solutions, mobile games, and blockchain applications. Passionate about innovation and problem-solving, I spend a lot of my time architecting systems and streamlining processes to drive continuous improvement.
+A Software Engineer with 7+ years of experience building fintech solutions, mobile games, and blockchain applications. Passionate about innovation and problem-solving, I spend a lot of my time architecting systems and streamlining processes to drive continuous improvement.
 
 #### Tech stack
 Go | Java | C# | Kotlin | JavaScript | Typescript | Python | PHP | HTML | CSS | Sass | Spring | Hibernate | React JS | Node JS | Vue JS | Angular | Django | Android SDK | Laravel | .NET | GitHub Action | CI/CD | Google Cloud Platform | AWS | Azure | Serverless Framework | Firebase | Docker | Docker Compose | Kubernetes | Istio | CDK | Terraform | Ansible | Grafana | Jenkins | CircleCI | Apache Cassandra | PostgreSQL | MySQL | MongoDB | Redis | DynamoDB | Elasticsearch | Apache Kafka | Kinesis | RabbitMQ | SQS
